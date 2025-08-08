@@ -33,6 +33,4 @@ Start using your calendar!
 🚀 Demo: https://calendar-shruti.netlify.app/
 
 Screenshot:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f020145a-a825-4bfe-828a-089f32daa627" />
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0f864d8-ee78-41ef-b7a7-cfd5a5f888bd" />
